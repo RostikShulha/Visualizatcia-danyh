@@ -1,0 +1,11 @@
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\bin\Debug\Pract_Diagrama_2.exe.config
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\bin\Debug\Pract_Diagrama_2.exe
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\bin\Debug\Pract_Diagrama_2.pdb
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\obj\Debug\Pract_Diagrama_2.csproj.AssemblyReference.cache
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\obj\Debug\Pract_Diagrama_2.csproj.SuggestedBindingRedirects.cache
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\obj\Debug\Pract_Diagrama_2.Form1.resources
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\obj\Debug\Pract_Diagrama_2.Properties.Resources.resources
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\obj\Debug\Pract_Diagrama_2.csproj.GenerateResource.cache
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\obj\Debug\Pract_Diagrama_2.csproj.CoreCompileInputs.cache
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\obj\Debug\Pract_Diagrama_2.exe
+D:\Універ\Алгоритмізація та програмування\Pract_Diagrama_2\Pract_Diagrama_2\obj\Debug\Pract_Diagrama_2.pdb
